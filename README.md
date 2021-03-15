@@ -2,8 +2,10 @@
 
 This is the official github repository of the competitive programming team "Pythenerife".
 
+<p align="center">
+  <img src="https://github.com/dronrp/Pythenerife/blob/main/logo.jpeg" width="300" height="300">
+</p>
 
-<img src="https://github.com/dronrp/Pythenerife/blob/main/logo.jpeg" width="300" height="300">
 
 
 ## Programming languages
