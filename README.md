@@ -3,8 +3,8 @@
 This is the official github repository of the competitive programming team "Pythenerife".
 
 ## Programming languages
-Pyhton 
-C++
++Pyhton 
++C++
 
 ## Authors
 + Andrey Rosario
