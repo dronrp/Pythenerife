@@ -13,7 +13,7 @@ This is the official github repository of the competitive programming team "Pyth
 + C ++
 
 
-## Authors
+## Members
 + Andrey Rosario
 + Alberto Rodríguez
 + Sergio Rodríguez
