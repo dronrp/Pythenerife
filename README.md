@@ -19,3 +19,12 @@ This is the official github repository of the competitive programming team "Pyth
 + Sergio Rodríguez
 + Ruymán Barbuzano
 + Daniel García
+
+## Achievements
+
+<ul>
+<li>Reply Code Challenge – Teen Edition 2021:
+<ul>
+  <li>#262 position</li>
+<li>1 Spanish team</li>
+</ul>
