@@ -16,8 +16,8 @@ This is the official github repository of the competitive programming team "Pyth
 ## Members
 + [Andrey Rosario](https://github.com/dronrp)
 + [Alberto Rodríguez](https://github.com/Alberto-72)
-+ [Sergio Rodríguez](https://github.com/ArmandoLegos)
-+ Ruymán Barbuzano
++ [Sergio Rodríguez] (https://github.com/armandoprogramas-legos)
++ [Ruymán Barbuzano] (https://github.com/ArmandoLegos)
 + Daniel García
 
 ## Achievements
